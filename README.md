@@ -1,6 +1,11 @@
-<img src="https://github.com/DipLeChip/protocol3/blob/main/p3long.png" width="200"></img>
-# protocol3 
+<img src="https://github.com/DipLeChip/protocol3/blob/main/p3long.png" width=""></img>
+<p align="center">
+  <img alt="Stable v3.2.2" src="https://img.shields.io/badge/stable-v3.2.2-informational"></img>
+<h2 align="center">The Plugin That Runs Avas</h2>
 protocol3 is the plugin that runs avas.cc. It manages things like the speed limit, anti-illegals, and commands like vote mute. It also provides quality of life commands and debug information for server administrators.
+
+### Download
+You can download the current stable version [here](https://github.com/gcurtiss/protocol3/releases/tag/v3.2.2-stable)
 
 ### Dependencies
 At this time, only [ProtocolLib](https://www.spigotmc.org/resources/protocollib.1997/) and [ArmorEquipEvent](https://www.spigotmc.org/resources/lib-armorequipevent.5478/) is required for the plugin to run correctly.
