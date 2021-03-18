@@ -43,11 +43,11 @@ Please comment any lines that may be unclear to someone who is less experienced 
 
 ### Credits
 The following people significantly contributed to cleaning protocol3 before release.  
-[d2k11](https://github.com/gcurtiss)  
-[ultradutch](https://github.com/ultra64cmy)  
-[timoreo](https://github.com/timoreo22)  
-[inferno4you](https://github.com/Infer4Y)  
-[RyzenRoll](https://github.com/RyzenRoll)  
+<img src="https://avatars.githubusercontent.com/u/65378620?s=460&u=d16de1dd3e6ad7b79cca0dcc1fe46d5033f40e17&v=4" width=12></img>[d2k11](https://github.com/gcurtiss)  
+<img src="https://avatars.githubusercontent.com/u/80420528?s=460&v=4" width=12></img>[ultradutch](https://github.com/ultra64cmy)  
+<img src="https://avatars.githubusercontent.com/u/29944907?s=460&v=4" width=12></img>[timoreo](https://github.com/timoreo22)  
+<img src="https://avatars.githubusercontent.com/u/46350196?s=460&u=447f50183eda50b12287813b8eb9dda596cc041f&v=4" width=12></img>[inferno4you](https://github.com/Infer4Y)  
+<img src="https://avatars.githubusercontent.com/u/80420156?s=460&u=ceadf2cc69812f77b92b3b2566cdf397f44e9c7b&v=4" width=12></img>[RyzenRoll](https://github.com/RyzenRoll)  
 
 ### License
 This software is licensed under [GNU GPL v3](https://www.gnu.org/licenses/gpl-3.0.en.html).
